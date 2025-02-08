@@ -1,0 +1,10 @@
+Voici le Lien GitHub pour le projet:
+https://github.com/marcbab01/librairie_php
+
+WebDav Connection:
+
+server: webdev.cmaisonneuve.qc.ca
+User: e2495915
+Password: Laurie-eve001+
+
+chemin: /home/e2495915/www/librairie_php
